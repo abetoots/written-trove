@@ -1,12 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    title: `Written Trove`,
+    author: `Abe Suni M. Caymo`,
+    description: `The treasure trove for internet's collection of easter eggs, tutorials, guides, and many more. A beautiful mess.`,
+    siteUrl: `https://writtentrove.com/`,
   },
   plugins: [
     {
@@ -57,13 +54,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `WrittenTrove`,
+        short_name: `Trove`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#15dfbc`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/writtentrove_icon-pilot.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
@@ -71,6 +68,17 @@ module.exports = {
       resolve: `gatsby-plugin-typography`,
       options: {
         pathToConfigModule: `src/utils/typography`,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-sass`,
+      options: {
+        //only variables and mixins to avoid duplicating
+        data: `
+            @import "./src/styles/util/variables";
+            @import "./src/styles/tools/functions";
+            @import "./src/styles/tools/mixins";
+            `,
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
