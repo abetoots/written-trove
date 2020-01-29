@@ -14,7 +14,7 @@ import { rhythm } from "../utils/typography";
 const Bio = () => {
   const data = useStaticQuery(graphql`
     query BioQuery {
-      avatar: file(absolutePath: { regex: "/burger.png/" }) {
+      avatar: file(absolutePath: { regex: "/author-profile-photo.jpeg/" }) {
         childImageSharp {
           fixed(width: 50, height: 50) {
             ...GatsbyImageSharpFixed
@@ -51,8 +51,8 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who works mainly with React and
-        WordPress.
+        Written by <strong>{author}</strong> , a web developer who spends his
+        time either writing articles or creating stuff with React or WordPress .
       </p>
     </div>
   );
