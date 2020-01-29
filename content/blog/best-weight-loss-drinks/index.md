@@ -4,13 +4,17 @@ author: Abe Suni Caymo
 type: post
 date: "2018-11-12T11:14:19+00:00"
 description: "We round up all the best weight loss drinks backed up by science. However, these are to be used as an aid to weight loss diets, not as a substitue."
+featured: "./best-weight-loss-drinks-100-optimized.jpg"
+altText: "Best Weight Loss Drink Banner"
 url: /2018/11/12/best-weight-loss-drinks/
 categories:
   - "Foods &amp; Drinks"
   - Weight Loss
 ---
 
-Note: These drinks showed modest weight loss at best. Almost all researches concluded that these drinks are to be used as an aid to weight loss diets (preferably low-calorie diets), not as a substitute.
+<img src="./best-weight-loss-drinks-100-optimized.jpg" alt="Weight Loss Drinks Banner">
+
+**NOTE: These drinks showed modest weight loss at best. The researches concluded that these drinks are to be used as an aid to weight loss diets (preferably low-calorie diets), not as a substitute.**
 
 ## 1. Green Tea
 

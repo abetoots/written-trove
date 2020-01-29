@@ -4,10 +4,14 @@ author: Abe Suni Caymo
 type: post
 date: "2018-11-21T09:36:39+00:00"
 description: "When it comes to 'juicing vs blending', people really like to take sides whether which one is healthier. If I was you, I'd worry about which one costs more."
+featured: "./juicing-vs-blending-100-optimized.jpg"
+altText: "Juicing versus Blending Banner"
 url: /2018/11/21/juicing-vs-blending/
 categories:
   - "Foods &amp; Drinks"
 ---
+
+<img src="./juicing-vs-blending-100-optimized.jpg" alt="Juicing versus Blending Banner">
 
 When it comes to this subject, people really like to take sides whether which one is healthier. If I was you, I&#8217;d rather worry about which one costs more.&nbsp;😅
 

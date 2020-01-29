@@ -4,10 +4,14 @@ author: Abe Suni Caymo
 type: post
 date: "2018-11-29T11:45:02+00:00"
 description: "Most people never really consider what oil they use for cooking. Even I can’t be bothered to think about it. With so many types of cooking oil to choose from, is there really a difference? If so, which oil is the healthiest and best cooking oil?"
+featured: "./healthiest-cooking-oil-100-optimized.jpg"
+altText: "Healthiest Cooking Oil Banner"
 url: /2018/11/29/healthiest-cooking-oil/
 categories:
   - "Foods &amp; Drinks"
 ---
+
+<img src="./healthiest-cooking-oil-100-optimized.jpg" alt="Healthiest Cooking Oil Banner">
 
 Most people never really consider what oil they use for cooking. Even I can’t be bothered to think about it. With so many types of cooking oil to choose from, what’s the point? Is there really a difference?
 

@@ -6,11 +6,14 @@ author_description: "Registered RMT,
 type: post
 date: "2019-01-07T06:13:58+00:00"
 description: "What’s all the hype about the Ketogenic Diet? Why do a number of weight-conscious people and even some doctors and other health practitioners hail this diet as a new way of improving overall health while satisfying your cravings?"
+featured: "./keto-diet-for-beginners-100-optimized.jpg"
+altText: "Keto diet for beginners"
 url: /2019/01/07/keto-diet-for-beginners/
-
 categories:
   - Diet
 ---
+
+<img src="./keto-diet-for-beginners-100-optimized.jpg" alt="Keto diet for beginners">
 
 What’s all the hype about the Ketogenic Diet? Why do a number of weight-conscious people and even some doctors and other health practitioners hail this diet as a new way of improving overall health while satisfying your cravings?
 

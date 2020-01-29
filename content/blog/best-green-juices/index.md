@@ -1,13 +1,16 @@
 ---
-title: Best Green Juices of 2018
+title: Best Green Juices of 2020
 author: Abe Suni Caymo
 type: post
-date: "2018-10-11T10:38:29+00:00"
+date: "2020-01-29T07:04:05.737Z"
 description: "Not all green juices are as “healthy” as you think. There are healthier alternatives such as smoothies and green juice superfood powders but most of us just crave a cool, refreshing, hyrdating drink to grab while on the go."
-url: /2018/10/11/best-green-juices/
+featured: "./best-green-juices-100-optimized.jpg"
+altText: "Best Green Juices Banner"
 categories:
-  - "Foods &amp; Drinks"
+  - "Foods & Drinks"
 ---
+
+<img src="./best-green-juices-100-optimized.jpg" alt="Best Green Juices Banner">
 
 “It’s green so it must be healthy, right?” This was exactly what went through my mind when the green juice trend went mainstream and somewhat became a must-have accessory for health-conscious consumers.
 

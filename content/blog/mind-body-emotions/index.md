@@ -4,11 +4,14 @@ author: Abe Suni Caymo
 type: post
 date: "2020-01-23T00:00:00.000Z"
 description: "The intimate relationship between the mind (thoughts and feelings) and the body is by no means a new concept.Below we'll discuss how emotions can positively or negatively impact our bodies."
-draft: true
+featured: "./mind-body-emotions-100-optimized.jpg"
+altText: "How emotions affect our body"
 url: /?p=393
 categories:
   - General
 ---
+
+<img src="./mind-body-emotions-100-optimized.jpg" alt="How emotions affect our body">
 
 ## Mind and Body Relationship
 

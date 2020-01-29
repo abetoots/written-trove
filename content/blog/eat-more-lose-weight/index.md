@@ -4,12 +4,14 @@ author: Abe Suni Caymo
 type: post
 date: "2018-11-09T05:59:57+00:00"
 description: "To eat without worrying about any consequence, that’s the dream, right? You can’t help but wonder why some people can just eat to their heart’s content but just don’t seem to get fat. Well, let's dive into the details on how to eat more but weigh less."
+featured: "./eat-more-weigh-less-100-optimized.jpg"
+altText: "How to eat more and weigh less banner"
 url: /2018/11/09/eat-more-lose-weight/
 categories:
   - Weight Loss
 ---
 
-<img width="843" height="256" src="https://dietifi.com/wp-content/uploads/2018/11/Eat-More-Weigh-Less-1024x311.png" alt="" srcset="https://dietifi.com/wp-content/uploads/2018/11/Eat-More-Weigh-Less-1024x311.png 1024w, https://dietifi.com/wp-content/uploads/2018/11/Eat-More-Weigh-Less-300x91.png 300w, https://dietifi.com/wp-content/uploads/2018/11/Eat-More-Weigh-Less-768x233.png 768w, https://dietifi.com/wp-content/uploads/2018/11/Eat-More-Weigh-Less.png 1400w" sizes="(max-width: 843px) 100vw, 843px" />
+<img src="./eat-more-weigh-less-100-optimized.jpg" alt="How to eat more and weigh less banner">
 
 To eat without worrying about any consequence, that’s the dream, right? You can’t help but wonder why some people can just eat to their heart’s content but just don’t seem to get fat. Well, that’s the reality. Research shows that some people are more genetically predisposed to obesity.
 
