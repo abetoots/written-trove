@@ -15,7 +15,7 @@ categories:
 
 <img src="./keto-diet-for-beginners-100-optimized.jpg" alt="Keto diet for beginners">
 
-What’s all the hype about the Ketogenic Diet? Why do a number of weight-conscious people and even some doctors and other health practitioners hail this diet as a new way of improving overall health while satisfying your cravings?
+What’s with all the hype about the Ketogenic Diet? Why do a number of weight-conscious people and even some doctors and other health practitioners hail this diet as **a new way of improving overall health while satisfying your cravings?**
 
 Ketogenic Diet or Keto Diet is sometimes referred to as “bacon and butter diet” because it calls for **75% of daily calories to come from fat**. This perhaps caught your attention. How can someone lose weight when they’re actually adding more fat than the usual recommended intake of this macronutrient?
 
