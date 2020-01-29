@@ -16,15 +16,11 @@ const Layout = props => {
     }
   `);
   const { children } = props;
-  const rootPath = `${__PATH_PREFIX__}/`;
-  console.log(rootPath);
 
   return (
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
-      <main style={{ padding: `${rhythm(1 / 2)} ${rhythm(1)}` }}>
-        {children}
-      </main>
+      <main style={props.mainStyle}>{children}</main>
       <footer
         style={{
           color: "white",
