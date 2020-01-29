@@ -13,7 +13,15 @@ class BlogPostTemplate extends React.Component {
     const { previous, next } = this.props.pageContext;
 
     return (
-      <Layout title={siteTitle}>
+      <Layout
+        title={siteTitle}
+        mainStyle={{
+          marginLeft: `auto`,
+          marginRight: `auto`,
+          maxWidth: rhythm(34),
+          padding: `${rhythm(1.5)} ${rhythm(1)}`,
+        }}
+      >
         <SEO
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
@@ -111,6 +119,14 @@ export const pageQuery = graphql`
         description
         author
         author_description
+        altText
+        featured {
+          childImageSharp {
+            fluid(quality: 100, maxWidth: 500) {
+              src
+            }
+          }
+        }
       }
     }
   }
