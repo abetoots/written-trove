@@ -4,6 +4,7 @@ module.exports = {
     author: `Abe Suni M. Caymo`,
     description: `The treasure trove for internet's collection of easter eggs, tutorials, guides, and many more. A beautiful mess.`,
     siteUrl: `https://writtentrove.com/`,
+    pinterestVerification: "2f2d089c41b8102651e1a4241ac84284",
   },
   plugins: [
     {
@@ -27,7 +28,7 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 590,
+              maxWidth: 1440,
             },
           },
           {
@@ -85,4 +86,4 @@ module.exports = {
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
   ],
-}
+};
