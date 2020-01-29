@@ -19,21 +19,18 @@ To eat without worrying about any consequence, that’s the dream, right? You ca
 
 Contrary to popular belief, instances where obesity is caused solely by genetics alone are **rare**. You see the excuse usually is “It’s in my genes – nothing I can do about it.” Few people realize that you can actually take control of your weight with several small lifestyle changes.
 
-A <a href="http://www.hsph.harvard.edu/obesity-prevention-source/obesity-causes/genes-and-obesity/" target="_blank" rel="noopener noreferrer">research from HSPC</a> assures us that when it comes to obesity, it’s rare for your weight density to be determined by your heredity. It’s more likely to be determined by factors such as your diet, lifestyle, and environment.
+A <a href="http://www.hsph.harvard.edu/obesity-prevention-source/obesity-causes/genes-and-obesity/" target="_blank" rel="nofollow">research from HSPC</a> assures us that when it comes to obesity, it’s rare for your weight density to be determined by your heredity. It’s more likely to be determined by factors such as your diet, lifestyle, and environment.
 
 ### The bottom line is:
 
-**Whether you’re genetically predisposed to obesity or not, w\*\***e all gain weight the same way\*\*.&nbsp; Sure some people gain weight faster than others but again, this can be countered with small changes to your diet and lifestyle.
+Whether you’re genetically predisposed to obesity or not, **we all gain weight the same way**.&nbsp; Sure some people gain weight faster than others but again, this can be countered with small changes to your diet, lifestyle and maybe some <a href="../best-weight-loss-drinks">aid from healthy drinks</a>.
 
-You see, obesity occurs when the calories you eat exceed the calories your body needs to use. As your body doesn’t need leftover calories, it stores them as fat. Note that by the time your body accumulates 3,500 leftover calories, you’ll have deposited one pound of fat.
+You see, obesity occurs when the calories you eat exceed the calories your body needs to use. As your body doesn’t need leftover calories, it stores them as fat. **Note that by the time your body accumulates 3,500 leftover calories, you’ll have deposited one pound of fat.**
 
 ### So what&#8217;s the formula to eating more but weighing less?
-
 Now that you know how someone gains weight, the formula becomes simple, doesn’t it?
 
-The secret to success is finding a way to eat **fewer calories** instead of eating **less food.** It’s a fail-safe formula if you think about it.\*\*\*\*
-
-\*\*
+The secret to success is <a href="../keto-diet-for-beginners">finding a way to eat **fewer calories**</a> instead of eating **less food.** It’s a fail-safe formula if you think about it.
 
 ---
 
