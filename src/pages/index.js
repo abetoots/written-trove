@@ -13,11 +13,26 @@ class BlogIndex extends React.Component {
     const posts = data.allMarkdownRemark.edges;
 
     return (
-      <Layout location={this.props.location} title={siteTitle}>
+      <Layout
+        location={this.props.location}
+        title={siteTitle}
+        mainStyle={{ padding: `${rhythm(1 / 2)} ${rhythm(1)}` }}
+      >
         <SEO title="All posts" />
         <div className="Home">
           {posts.map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug;
+            let image;
+            if (node.frontmatter.featured && node.frontmatter.altText) {
+              image = (
+                <div>
+                  <img
+                    src={node.frontmatter.featured.childImageSharp.fluid.src}
+                    alt={node.frontmatter.altText}
+                  />
+                </div>
+              );
+            }
             return (
               <article key={node.fields.slug}>
                 <header>
@@ -30,6 +45,7 @@ class BlogIndex extends React.Component {
                       {title}
                     </Link>
                   </h3>
+                  {image}
                   <small>
                     <strong>{node.frontmatter.date}</strong>
                   </small>
@@ -70,6 +86,14 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             description
+            altText
+            featured {
+              childImageSharp {
+                fluid(quality: 100, maxWidth: 500) {
+                  src
+                }
+              }
+            }
           }
         }
       }
