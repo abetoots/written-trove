@@ -10,6 +10,8 @@ import Logo from "../Logo/Logo";
 import BurgerMenu from "../BurgerMenu/BurgerMenu";
 import Menu from "../Menu/Menu";
 
+import logo from "../../../content/assets/writtentrove-logo.svg";
+
 const Header = props => {
   const [menuToggled, setMenuToggled] = useState(false);
 
@@ -49,13 +51,13 @@ const Header = props => {
               textDecoration: `none`,
             }}
           >
-            <Logo alt={props.siteTitle} />
+            <Logo src={logo} alt={`${props.siteTitle} logo`} />
           </Link>
         </div>
       </header>
       <div ref={targetElToDisplay} className="Header__slot -clickTarget">
         <div ref={target}>
-          <Menu linklist={linklist} visible={menuToggled} />
+          <Menu linklist={linklist} toggled={menuToggled} />
         </div>
       </div>
     </>
