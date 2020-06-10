@@ -62,7 +62,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#15dfbc`,
         display: `minimal-ui`,
-        icon: `content/assets/writtentrove_icon-pilot.png`,
+        icon: `content/assets/writtentrove-icon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
