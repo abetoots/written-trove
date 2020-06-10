@@ -5,7 +5,7 @@ import PropTypes from "prop-types";
 import "./Menu.scss";
 
 const Menu = props => {
-  const classes = props.visible ? ["Menu"] : ["Menu -hidden"];
+  const classes = props.toggled ? ["Menu"] : ["Menu -hidden"];
 
   if (props.desktopOnly) {
     classes.push("-desktopOnly");
@@ -14,7 +14,10 @@ const Menu = props => {
   return (
     <nav className={classes.join(" ")}>
       {props.label ? <h4 className="Menu__label">{props.label}</h4> : ""}
-      <ul className={`Menu__ul ${props.horizontal ? " -horizontal" : ""}`}>
+      <ul
+        className={`Menu__ul ${props.horizontal ? " -horizontal" : ""}`}
+        aria-expanded={props.toggled}
+      >
         {props.linklist.map(item => (
           <li className="Menu__li" key={item.path}>
             <Link to={item.path} exact={item.exact} className="Menu__link">
