@@ -1,15 +1,14 @@
-import React from "react"
-import "./Logo.scss"
-import logo from "../../../content/assets/writtentrove_logo-pilot.svg"
+import React from "react";
+import "./Logo.scss";
 
 const Logo = props => (
   <div className="Logo">
     <img
       className="Logo__img"
-      src={logo}
-      alt={props.alt ? `${props.alt} logo` : "Site Logo"}
+      src={props.src}
+      alt={props.alt ? `${props.alt}` : "Site Logo"}
     />
   </div>
-)
+);
 
-export default Logo
+export default Logo;
