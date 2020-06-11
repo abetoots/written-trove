@@ -2,7 +2,7 @@
     "name": "written-trove-blog",
     "private": true,
     "description": "Written Trove blog",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Abe Suni M. Caymo <caymo.abesuni@gmail.com>",
     "bugs": {
         "url": "https://github.com/gatsbyjs/gatsby/issues"
