@@ -1,7 +1,7 @@
 import { Link } from "gatsby";
 import PropTypes from "prop-types";
 import React, { useState, useRef } from "react";
-import "./header.scss";
+import "./Header.scss";
 
 import { defaultMenu } from "../../utils/menus";
 import { rhythm } from "../../utils/typography";
